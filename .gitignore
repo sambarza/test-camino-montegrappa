@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Firmware (Arduino/PlatformIO)
+firmware/.pio/
+firmware/.pioenvs/
+
+# App (generico, da raffinare in base al framework scelto)
+app/node_modules/
+app/.dart_tool/
+app/build/
